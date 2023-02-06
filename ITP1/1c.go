@@ -7,7 +7,7 @@ import "fmt"
 	func main() {
 		onec()
 	}
-*/
+//*/
 func onec() {
 	var a, b int
 	fmt.Scanf("%d %d", &a, &b)

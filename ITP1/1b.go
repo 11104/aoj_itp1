@@ -7,7 +7,7 @@ import "fmt"
 	func main() {
 		oneb()
 	}
-*/
+//*/
 func oneb() {
 	var a int
 	fmt.Scanf("%d", &a)
