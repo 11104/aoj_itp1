@@ -9,8 +9,8 @@ import "fmt"
 		twoa()
 	}
 
-//
-*/
+//*/
+
 func twoa() {
 	var a, b int
 	fmt.Scanf("%d%d", &a, &b)
