@@ -4,12 +4,13 @@ import "fmt"
 
 //lint:ignore U1000 //
 
-// /*
-func main() {
-	twoa()
-}
+/*
+	func main() {
+		twoa()
+	}
 
-// */
+//
+*/
 func twoa() {
 	var a, b int
 	fmt.Scanf("%d%d", &a, &b)
