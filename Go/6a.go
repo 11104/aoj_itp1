@@ -4,7 +4,7 @@ import "fmt"
 
 //lint:ignore U1000 //
 
-// /*
+/*
 func main() {
 	sixa()
 }
