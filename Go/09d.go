@@ -6,7 +6,7 @@ import (
 
 //lint:ignore U1000 //
 
-// /*
+/*
 func main() {
 	nined()
 }
