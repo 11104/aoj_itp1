@@ -1,5 +1,5 @@
 # aoj_itp1
-これはAizu Online Judge のコース[プログラミング入門](https://onlinejudge.u-aizu.ac.jp/courses/lesson/2/ITP1/1)の解答を集約したリポジトリです。
+これはAizu Online Judge のコース["プログラミング入門"](https://onlinejudge.u-aizu.ac.jp/courses/lesson/2/ITP1/1)の解答を集約したリポジトリです。
 一度自分で提出して動作確認を行いました。
 
 ## Languages
