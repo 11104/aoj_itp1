@@ -4,7 +4,7 @@ for i in range(r):
     tmp=list(map(int,input().split()))
     #if map assign to "a" directly, number of cow be changed!! 
     for j in range(c):
-        a[i][c]+=tmp[j]
+        a[i][j]=tmp[j]
 #sum row
 for i in range(r):
     for j in range(c):
