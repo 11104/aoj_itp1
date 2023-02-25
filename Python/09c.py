@@ -29,3 +29,20 @@ for i in range(n):
                 pb+=3
                 break
 print(pa,pb)
+
+#easy
+'''#According to Py specification,py can compare str by ascii number
+N=int(input())
+x=0
+y=0
+for i in range(N):
+    a,b=input().split()
+    if a<b:
+        y+=3
+    elif a==b:
+        x+=1
+        y+=1
+    else:
+        x+=3
+print(x,y)
+'''
